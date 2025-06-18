@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\Currency-Converter\\CurrencyConverterStatic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F434E59-AADB-4073-B4E8-C27A18F2CDCA}|CurrencyConverterStatic\\CurrencyConverterStatic.csproj|c:\\users\\khadijtul kobra\\documents\\github\\currency-converter\\currencyconverterstatic\\currencyconverterstatic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F434E59-AADB-4073-B4E8-C27A18F2CDCA}|CurrencyConverterStatic\\CurrencyConverterStatic.csproj|solutionrelative:currencyconverterstatic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F434E59-AADB-4073-B4E8-C27A18F2CDCA}|CurrencyConverterStatic\\CurrencyConverterStatic.csproj|c:\\users\\khadijtul kobra\\documents\\github\\currency-converter\\currencyconverterstatic\\currencyconverterstatic\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F434E59-AADB-4073-B4E8-C27A18F2CDCA}|CurrencyConverterStatic\\CurrencyConverterStatic.csproj|solutionrelative:currencyconverterstatic\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F434E59-AADB-4073-B4E8-C27A18F2CDCA}|CurrencyConverterStatic\\CurrencyConverterStatic.csproj|C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\Currency-Converter\\CurrencyConverterStatic\\currencyconverterstatic\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F434E59-AADB-4073-B4E8-C27A18F2CDCA}|CurrencyConverterStatic\\CurrencyConverterStatic.csproj|solutionrelative:currencyconverterstatic\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\Currency-Converter\\CurrencyConverterStatic\\CurrencyConverterStatic\\App.xaml",
+              "RelativeDocumentMoniker": "CurrencyConverterStatic\\App.xaml",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\Currency-Converter\\CurrencyConverterStatic\\CurrencyConverterStatic\\App.xaml",
+              "RelativeToolTip": "CurrencyConverterStatic\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-18T18:54:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\Currency-Converter\\CurrencyConverterStatic\\CurrencyConverterStatic\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CurrencyConverterStatic\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\Currency-Converter\\CurrencyConverterStatic\\CurrencyConverterStatic\\MainWindow.xaml",
+              "RelativeToolTip": "CurrencyConverterStatic\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-18T14:52:49.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\Currency-Converter\\CurrencyConverterStatic\\CurrencyConverterStatic\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterStatic\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\Currency-Converter\\CurrencyConverterStatic\\CurrencyConverterStatic\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CurrencyConverterStatic\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:52:49.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
