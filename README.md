@@ -5,7 +5,7 @@ A simple desktop app to convert between currencies, built using **C# and WPF**.
 
 ---
 
-## 🛠 Features
+## Features
 
 - Convert currency using predefined rates
 - Easy-to-use interface
@@ -14,54 +14,26 @@ A simple desktop app to convert between currencies, built using **C# and WPF**.
 
 ---
 
-## 🔍 How It Works
+## How It Works
 
 The formula used:
 ```
 ConvertedValue = (FromCurrencyRate × Amount) / ToCurrencyRate
 ```
 
-Example:
-- From: EUR (1.0)
-- To: BDT (127.50)
-- Amount: 10
-
-Result: `10 × 127.50 = 1275.00 BDT`
 
 ---
 
-## 🖥 UI Components
+Currently, this Currency Converter application uses static (hardcoded) exchange rates for simplicity and demonstration purposes.
 
-- `TextBox` – Enter amount
-- `ComboBox` – Choose From/To currencies
-- `Button` – Convert
-- `Label` – Shows result
+## Next:
 
----
+Storing and retrieving currency values from a database
 
-## ▶️ Run the App
+Allowing easier updates to exchange rates
 
-1. Open the project in **Visual Studio**
-2. Press `F5` or click **Start**
-3. Try converting an amount!
+Supporting dynamic data loading without modifying source code
 
----
+This will make the app more flexible, maintainable, and closer to real-world standards.
 
-## ✅ Example
-
-```
-10 EUR → BDT = 1275.00
-```
-
----
-
-## 📌 Notes
-
-- Rates are hardcoded (you can add API support later)
-- Built for learning and practice
-
----
-
-## 📄 License
-
-Free to use. MIT License.
+Stay tuned for the database integration!
