@@ -42,21 +42,21 @@
         </StackPanel>
         <StackPanel Grid.Row="1" Orientation="Vertical" HorizontalAlignment="Center">
             <Label Content="Converted Currency" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"/>
-
+            <Label Name="labelCurrency" Height="40" Width="1100" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
         </StackPanel>
-        <StackPanel Grid.Row="2" Orientation="Horizontal" Width="800" Height="70" HorizontalAlignment="Center">
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Width="800" Height="60" HorizontalAlignment="Center">
             <Label Content="Enter Amount: " Foreground="#FFF7EAEA" Margin="35 0 0 0" FontSize="16" FontWeight="Bold" />
             <Label Content="From: " Margin="100 0 0 0" FontSize="16" FontWeight="Bold" Foreground="#FFF7F2F2"/>
             <Label Content="To: " Margin="220 0 0 0" FontSize="16" FontWeight="Bold" Foreground="#FFF7F2F2"/>
 
         </StackPanel>
-        <StackPanel  Grid.Row="2" Orientation="Horizontal" Width="800" Height="90" VerticalAlignment="Bottom">
+        <StackPanel  Grid.Row="2" Orientation="Horizontal" Width="800" Height="60" VerticalAlignment="Bottom">
 
-            <TextBox Name="textCurrency" Width="180" Height="35" Margin="30 0 0 0 " FontSize="14" >
+            <TextBox Name="textCurrency" PreviewTextInput="NumberValidation" VerticalAlignment="Top" Width="180" Height="35" Margin="30 0 0 0 " FontSize="14" >
             </TextBox>
-            <ComboBox Name="fromCurrency" Width="180" Height="35" Margin="50 0 0 0" VerticalAlignment="Center" />
-            <fa:FontAwesome Icon="Exchange" Height="40" Width="40" Margin="30 0 0 0" FontSize="16"></fa:FontAwesome>
-            <ComboBox Name="toCurrency" Width="180" Height="35" Margin="30 0 0 0"/>
+            <ComboBox Name="fromCurrency" Width="180" Height="35" Margin="50 0 0 0" VerticalAlignment="Top" />
+            <fa:FontAwesome Icon="Exchange" Height="40" Width="40" Margin="30 0 0 0 " VerticalAlignment="Top" FontSize="16"></fa:FontAwesome>
+            <ComboBox Name="toCurrency" Width="180" Height="35" Margin="30 0 0 0" VerticalAlignment="Top"/>
 
         </StackPanel>
         <StackPanel Grid.Row="3" Height="100" Width="1000" Orientation="Horizontal">
@@ -78,7 +78,7 @@
             </Button>
         </StackPanel>
         <StackPanel Grid.Row="4" Height="150" Width="800" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
-            <Image Height="150" Width="150"  VerticalAlignment="Center" HorizontalAlignment="Center" Margin="325 0"/>
+            <Image Height="100" Width="150" Source="Images/Logo.png" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="325 0"/>
         </StackPanel>
     </Grid>
 </Window>
